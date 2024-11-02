@@ -12,7 +12,7 @@ trojan=f.522226.xyz:45601, password=xjN4xcuPGg, over-tls=true, tls-verification=
 trojan=f.522226.xyz:45601, password=xjN4xcuPGg, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇺🇸 REALITY|US🇺🇸 | f.522226.xyz-45601 | 73.94ms
 vmess=192.210.231.217:80, method=aes-128-gcm, password=19d01a72-b30e-40d3-e87b-d16114368040, obfs=ws, obfs-host=fastly.jsdelivr.net, obfs-uri=/aa, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 United States 4
 shadowsocks=18.246.235.247:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US 2
-
+vmess=107.148.207.249:48712, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇺🇸 VM-TCP-NA 🇺🇸 US-107.148.207.249:48712
 vmess=15.204.67.50:80, method=aes-128-gcm, password=2a8a10fb-9ca3-367e-a234-cf09f841be4f, obfs=ws, obfs-host=us4e-20240111.v2freevpn.com, obfs-uri=/v149-dskds65, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 US 15.204.67.50 ◈ ws:80 ◈ OVH US ◈ b0581
 vless=104.243.33.160:80, method=none, password=b38c2dfa-f33c-4df4-98fa-e00e9c084cc4, obfs=ws, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, tag=💰🇺🇸 US 104.243.33.160 ◈ ws:80 ◈ ReliableSite.Net ◈ 99168
 vless=104.243.33.192:80, method=none, password=ab182450-da9e-4976-b63f-4f8f3667edd9, obfs=ws, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, tag=💰🇺🇸 US 104.243.33.192 ◈ ws:80 ◈ ReliableSite.Net ◈ 96f44
