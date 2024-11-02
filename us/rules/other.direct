@@ -360,16 +360,15 @@ host-suffix, zello.com, DIRECT
 host-suffix, zeronet.io, DIRECT
 host-suffix, zoom.us, DIRECT
 host-keyword, github, DIRECT
-host-keyword, jav, DIRECT
+host-keyword, jav, PROXY
 host-keyword, pinterest, DIRECT
-host-keyword, porn, DIRECT
-host-keyword, wikileaks, DIRECT
+host-keyword, porn, PROXY
 
 # (Region-Restricted Access Denied)
 host-suffix, apartmentratings.com, DIRECT
 host-suffix, apartments.com, DIRECT
 host-suffix, bankmobilevibe.com, DIRECT
-host-suffix, bing.com, DIRECT
+host-suffix, bing.com, PROXY
 host-suffix, booktopia.com.au, DIRECT
 host-suffix, cccat.io, DIRECT
 host-suffix, centauro.com.br, DIRECT
@@ -409,7 +408,7 @@ host-suffix, unity3d.com, DIRECT
 host-suffix, uploader.jp, DIRECT
 host-suffix, vevo.com, DIRECT
 host-suffix, viu.tv, DIRECT
-host-suffix, vk.com, DIRECT
+host-suffix, vk.com, PROXY
 host-suffix, vsco.co, DIRECT
 host-suffix, xfinity.com, DIRECT
 host-suffix, zattoo.com, DIRECT
@@ -485,10 +484,6 @@ host-suffix, aol.com, DIRECT
 host-suffix, bcc.com.tw, DIRECT
 host-suffix, bit.ly, DIRECT
 host-suffix, bitshare.com, DIRECT
-host-suffix, blog.jp, DIRECT
-host-suffix, blogimg.jp, DIRECT
-host-suffix, blogtd.org, DIRECT
-host-suffix, broadcast.co.nz, DIRECT
 host-suffix, camfrog.com, DIRECT
 host-suffix, cfos.de, DIRECT
 host-suffix, citypopulation.de, DIRECT
@@ -519,7 +514,7 @@ host-suffix, newsblur.com, DIRECT
 host-suffix, now.im, DIRECT
 host-suffix, nowe.com, DIRECT
 host-suffix, redditlist.com, DIRECT
-host-suffix, s3.amazonaws.com, DIRECT
+host-suffix, s3.amazonaws.com, PROXY
 host-suffix, signal.org, DIRECT
 host-suffix, smartmailcloud.com, DIRECT
 host-suffix, sparknotes.com, DIRECT
