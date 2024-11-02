@@ -1,20 +1,2 @@
-trojan = 52.38.46.125:443, password=f6e7aece-f0fd-3657-b00a-b97c8ef63743, over-tls=true, tls-host=l.google.com, fast-open=false, tls-verification=false, tag=🇺🇸 04-0187-US
 trojan = 103.136.185.27:5535, password=f6e7aece-f0fd-3657-b00a-b97c8ef63743, over-tls=true, tls-host=l.google.com, fast-open=false, tls-verification=false, tag=🇺🇸 04-0188-US
 trojan = 103.136.185.28:3516, password=f6e7aece-f0fd-3657-b00a-b97c8ef63743, over-tls=true, tls-host=l.google.com, fast-open=false, tls-verification=false, tag=🇺🇸 04-0189-US
-trojan = lavip101.qlgq.fun:11156, password=28c494a6-b3ab-3c17-9b6d-739580d2ed72, over-tls=true, tls-host=lavip101.qlgq.fun, fast-open=false, tls-verification=false, tag=🇺🇸 04-0232-US
-trojan = lavip101.qlgq.fun:21156, password=28c494a6-b3ab-3c17-9b6d-739580d2ed72, over-tls=true, tls-host=lavip101.qlgq.fun, fast-open=false, tls-verification=false, tag=🇺🇸 04-0233-US
-trojan = lavip101.qlgq.fun:31156, password=28c494a6-b3ab-3c17-9b6d-739580d2ed72, over-tls=true, tls-host=lavip101.qlgq.fun, fast-open=false, tls-verification=false, tag=🇺🇸 04-0234-US
-trojan = lavip102.qlgq.fun:49643, password=28c494a6-b3ab-3c17-9b6d-739580d2ed72, over-tls=true, tls-host=lavip102.qlgq.fun, fast-open=false, tls-verification=false, tag=🇺🇸 04-0235-US
-trojan = lavip102.qlgq.fun:20443, password=28c494a6-b3ab-3c17-9b6d-739580d2ed72, over-tls=true, tls-host=lavip102.qlgq.fun, fast-open=false, tls-verification=false, tag=🇺🇸 04-0236-US
-trojan = lavip102.qlgq.fun:30443, password=28c494a6-b3ab-3c17-9b6d-739580d2ed72, over-tls=true, tls-host=lavip102.qlgq.fun, fast-open=false, tls-verification=false, tag=🇺🇸 04-0237-US
-shadowsocks = us.cooc.icu:35881, method=chacha20-ietf-poly1305, password=4dcf1a0d-8dd2-4648-afcb-aa7f19e5ef67, fast-open=false, tag=🇺🇸 04-0280-US
-vmess = shs2.12123.org:30002, method=chacha20-ietf-poly1305, password=ba39a38d-43b4-4468-8591-f6051b2bef99, obfs=ws, obfs-host=l.google.com, obfs-uri=/12123.org, fast-open=false, tag=🇺🇸 13-1205-US
-vmess = shs1.12123.org:30002, method=chacha20-ietf-poly1305, password=ba39a38d-43b4-4468-8591-f6051b2bef99, obfs=ws, obfs-host=l.google.com, obfs-uri=/12123.org, fast-open=false, tag=🇺🇸 13-1285-US
-vmess = 69.50.93.90:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, obfs=ws, obfs-host=l.google.com, obfs-uri=/linkvws, fast-open=false, tag=🇺🇸 20-1931-US
-vmess = 38.99.82.203:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, obfs=ws, obfs-host=l.google.com, obfs-uri=/linkvws, fast-open=false, tag=🇺🇸 20-1935-US
-vmess = 38.99.82.137:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, aead=false, obfs=ws, obfs-host=l.google.com, obfs-uri=linkvws, fast-open=false, tag=🇺🇸 20-1938-US
-vmess = 23.154.136.2:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, obfs=ws, obfs-host=23.154.136.2, obfs-uri=/linkvws, fast-open=false, tag=🇺🇸 20-1942-US
-vmess = 38.91.100.228:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, obfs=ws, obfs-host=l.google.com, obfs-uri=/linkvws, fast-open=false, tag=🇺🇸 20-1946-US
-vmess = 38.91.106.227:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, obfs=ws, obfs-host=l.google.com, obfs-uri=/linkvws, fast-open=false, tag=🇺🇸 20-1955-US
-vmess = 43.153.103.203:443, method=chacha20-ietf-poly1305, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=l.google.com, obfs-uri=/, fast-open=false, tag=🇺🇸 20-1976-US
-vmess = 38.14.107.233:38003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, obfs=ws, obfs-host=l.google.com, obfs-uri=/path/340434130032, fast-open=false, tag=🇺🇸 20-1998-US
