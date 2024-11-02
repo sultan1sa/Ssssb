@@ -1,3 +1,4 @@
+shadowsocks=192.227.206.115:16899, method=aes-128-gcm, password=Yc2CtrIz8L, fast-open=false, udp-relay=true, tag=🇺🇸 US🇺🇸 | 192.227.206.115-16899 | 39.06ms
 vmess=2607:f130:0:134::9:50100, method=aes-128-gcm, password=7748cec0-5164-4c52-87cf-55758d80fdaf, obfs=http, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=⚠︎ ⚠︎ ⚠︎ 💰🇺🇸 US 74.48.4.5 ◈ tcp:50100 ◈ Multacom Corporation / TELUS Communications Inc ◈ 2bcb0
 trojan = 103.136.185.27:5535, password=f6e7aece-f0fd-3657-b00a-b97c8ef63743, over-tls=true, tls-host=l.google.com, fast-open=false, tls-verification=false, tag=🇺🇸 04-0188-US
 trojan = 103.136.185.28:3516, password=f6e7aece-f0fd-3657-b00a-b97c8ef63743, over-tls=true, tls-host=l.google.com, fast-open=false, tls-verification=false, tag=🇺🇸 04-0189-US
