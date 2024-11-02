@@ -1,3 +1,5 @@
+vmess=2607:f130:0:134::9:50100, method=chacha20-ietf-poly1305, password=7748cec0-5164-4c52-87cf-55758d80fdaf, obfs=http, obfs-host=2607:f130:0:134::9, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸  ◈ Multacom Corporation / TELUS Communications Inc ◈ 96c6e
+vmess=2607:f130:0:134::9:50100, method=chacha20-ietf-poly1305, password=7748cec0-5164-4c52-87cf-55758d80fdaf, obfs=http, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=💰🇺🇸 Multacom Corporation / TELUS Communications Inc ◈ ebccc
 shadowsocks=2a0d:c740:3c:1::4d56:7f45:47529, method=aes-256-gcm, password=@GetNetworkBot, fast-open=false, udp-relay=false, tag=🇺🇸 US warp ◈ tcp:47529 ◈ a9d37
 trojan=f.522226.xyz:45601, password=xjN4xcuPGg, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇺🇸 US🇺🇸 | f.522226.xyz-45601 | 20.49ms
 trojan=f.522226.xyz:45601, password=xjN4xcuPGg, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇺🇸 REALITY|US🇺🇸 | f.522226.xyz-45601 | 73.94ms
