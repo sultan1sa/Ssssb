@@ -1,0 +1,485 @@
+shadowsocks = us.dns.iepl.wiki:28053, method=chacha20-ietf-poly1305, password=aeb54dbf-fdc5-44a8-b8ef-05f87d6a37ac, fast-open=false, udp-relay=true, tag=🇺🇸US-104.200.19.189-28053
+vmess = 104.21.21.21:443, method=chacha20-ietf-poly1305, password=73dfe5b1-9ced-4be7-949b-e731d54ba801, tls13=false, obfs=wss, obfs-host=, obfs-uri=/?ed=2048, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.238.220.60-443
+vmess = 104.19.45.7:2095, method=chacha20-ietf-poly1305, password=7a737f41-b792-4260-94ff-3d864da67b80, obfs=ws, obfs-host=onea.flha.ru, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇺🇸US-104.28.219.193-2095
+vmess = 104.19.45.147:2095, method=chacha20-ietf-poly1305, password=7a737f41-b792-4260-94ff-3d864da67b80, obfs=ws, obfs-host=onea.flha.ru, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇺🇸US-104.28.251.195-2095
+http = 107.148.146.145:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-107.148.146.145-7890
+socks5 = 107.181.161.81:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-107.181.161.81-4145
+socks5 = 107.181.168.145:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-107.181.168.145-4145
+vmess = 172.64.170.111:2082, method=chacha20-ietf-poly1305, password=86e926b9-d67a-4c8f-a35e-024631838a45, obfs=ws, obfs-host=ip3-2.freessr2.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.22.213-2082
+vmess = 104.19.59.89:2086, method=chacha20-ietf-poly1305, password=e9e3cc13-db48-4cc1-8c24-7626439a5339, obfs=ws, obfs-host=ip2.1457230.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.23.161-2086
+vmess = 104.19.47.27:2086, method=chacha20-ietf-poly1305, password=e9e3cc13-db48-4cc1-8c24-7626439a5339, obfs=ws, obfs-host=ip1.1457230.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.23.41-2086
+vmess = 104.19.47.65:2086, method=chacha20-ietf-poly1305, password=e9e3cc13-db48-4cc1-8c24-7626439a5339, obfs=ws, obfs-host=ip11-2.freegradely.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.24.77-2086
+vmess = 104.16.148.244:2086, method=chacha20-ietf-poly1305, password=29eebb60-b27b-4a9d-bba5-947763d9205e, obfs=ws, obfs-host=ip006.freegradely.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.5.131-2086
+vmess = icook.tw:2086, method=chacha20-ietf-poly1305, password=e9e3cc13-db48-4cc1-8c24-7626439a5339, obfs=ws, obfs-host=icook.tw, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.5.19-2086
+vmess = 183.236.51.23:40434, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-137.175.20.116-40434
+shadowsocks = sg5.mhw7e2.online:20001, method=chacha20-ietf-poly1305, password=70747514-fb14-4f31-8390-e1f0453eff6d, fast-open=false, udp-relay=true, tag=🇺🇸US-141.11.216.12-20001
+shadowsocks = 103.161.255.195:16088, method=aes-256-cfb, password=hGkQ6915tD, fast-open=false, udp-relay=true, tag=🇺🇸US-141.11.91.93-16088
+shadowsocks = p238.panda004.net:51474, method=aes-256-cfb, password=qwerREWQ@@, fast-open=false, udp-relay=true, tag=🇺🇸US-141.195.112.180-51474
+socks5 = 142.54.226.214:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-142.54.226.214-4145
+socks5 = 142.54.236.97:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-142.54.236.97-4145
+vmess = 15.235.83.227:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, tls13=false, obfs=wss, obfs-host=mankadmu.com, obfs-uri=/linkvws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-15.235.83.227-443
+shadowsocks = 34707.crelay.org:34707, method=aes-128-gcm, password=e123bf80-e21f-45ec-9116-f6db5d3cb6b1, fast-open=false, udp-relay=true, tag=🇺🇸US-152.70.119.13-34707
+vmess = 183.236.48.161:41490, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-154.198.231.242-41490
+shadowsocks = hk01.azxylm.top:55268, method=aes-256-gcm, password=e6540bd8-55d3-46cb-a393-a9594cdd5d51, fast-open=false, udp-relay=true, tag=🇺🇸US-157.254.154.48-55268
+shadowsocks = 7438974b54cf5c57.cdn.jiashule.com:40216, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=74592:o4fbeopsgcf, obfs=plain, obfs-host=cd5ed74592.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-158.101.2.26-40216
+socks5 = 162.253.68.97:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-162.253.68.97-4145
+vmess = 167.253.152.186:8080, method=chacha20-ietf-poly1305, password=1c1cb7fe-a929-4e47-b292-4073b63d2d4b, obfs=ws, obfs-host=lamhosting.daozhang.link, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇺🇸US-167.253.152.186-8080
+vmess = 183.238.202.171:42866, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.143.130-42866
+vmess = 183.238.90.3:35576, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.175.26-35576
+vmess = 120.232.153.40:52442, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.175.42-52442
+vmess = 120.232.153.37:42055, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.175.50-42055
+vmess = 120.232.153.8:54629, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.18.66-54629
+vmess = 120.232.153.71:40972, method=chacha20-ietf-poly1305, password=770ee730-2450-4e3c-a6c6-3932bd32afbd, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.18.74-40972
+shadowsocks = pro.sr.us01.yunti-relay01.net:29839, method=chacha20-ietf, password=4wMNkIVsgybXfA2u, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=107560:cztSoV, obfs=plain, obfs-host=83f38107560.windows.net, fast-open=false, udp-relay=true, tag=🇺🇸US-173.234.24.2-29839
+socks5 = 174.75.211.222:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.75.211.222-4145
+socks5 = 184.178.172.25:15291, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.25-15291
+socks5 = 184.181.217.194:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.181.217.194-4145
+socks5 = 192.111.137.34:18765, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.137.34-18765
+socks5 = 192.111.138.29:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.138.29-4145
+vmess = 183.238.90.3:43920, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-192.151.223.114-43920
+vmess = 120.232.153.71:34565, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-192.151.223.154-34565
+socks5 = 192.252.208.70:14282, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.208.70-14282
+socks5 = 192.252.215.5:16137, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.215.5-16137
+socks5 = 192.252.216.81:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.216.81-4145
+socks5 = 192.252.220.89:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.220.89-4145
+socks5 = 192.252.220.92:17328, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.220.92-17328
+shadowsocks = zhuliu.zhenxunwudi.top:38045, method=aes-256-gcm, password=2MkHPhqUTQKK7N7D, fast-open=false, udp-relay=true, tag=🇺🇸US-192.3.7.45-38045
+vmess = 183.236.48.163:58831, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-192.74.231.1-58831
+trojan = 43.153.103.203:443, password=CMLiu, over-tls=true, tls-host=aliorg.filegear-sg.me, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-193.122.197.111-443
+shadowsocks = us1.azxylm.top:26800, method=aes-256-gcm, password=e6540bd8-55d3-46cb-a393-a9594cdd5d51, fast-open=false, udp-relay=true, tag=🇺🇸US-194.135.104.133-26800
+vmess = 120.237.79.157:52908, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-198.16.35.226-52908
+vmess = 183.236.51.23:52112, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-198.200.56.114-52112
+vmess = 198.46.200.175:2096, method=chacha20-ietf-poly1305, password=09d4e6ab-bf30-4c29-900f-5d824ff2ec77, tls13=false, obfs=wss, obfs-host=ccs-us-3.nsde.date, obfs-uri=/, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-198.46.200.175-2096
+socks5 = 199.102.105.242:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.102.105.242-4145
+socks5 = 199.102.107.145:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.102.107.145-4145
+socks5 = 199.58.185.9:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.58.185.9-4145
+shadowsocks = 205.134.180.150:443, method=chacha20-ietf-poly1305, password=5cp9Z3iWnJZ2, fast-open=false, udp-relay=true, tag=🇺🇸US-205.134.180.151-443
+shadowsocks = 14.215.169.69:20030, method=chacha20-ietf-poly1305, password=70747514-fb14-4f31-8390-e1f0453eff6d, fast-open=false, udp-relay=true, tag=🇺🇸US-207.174.30.54-20030
+vmess = 208.87.243.123:2086, method=chacha20-ietf-poly1305, password=e9e3cc13-db48-4cc1-8c24-7626439a5339, obfs=ws, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-208.87.243.123-2086
+trojan = 208.87.243.137:443, password=4c5eefe8-f287-3813-8346-f2ce7de69bdb, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-208.87.243.137-443
+http = 209.141.33.104:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-209.141.33.104-7890
+http = 209.141.56.53:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-209.141.56.53-7890
+http = 65.1.40.47:1080, username=none, password=none, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.129.64.136-1080
+socks5 = 34.124.190.108:8080, fast-open=false, udp-relay=true, tag=🇺🇸US-23.129.64.216-8080
+vmess = 23.134.94.50:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, tls13=false, obfs=wss, obfs-host=vk.com, obfs-uri=/linkvws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.134.94.50-443
+vmess = z8.fragranceninja.com:12956, method=chacha20-ietf-poly1305, password=a32313ad-5e39-4f9a-9cad-512041790050, tls13=false, obfs=wss, obfs-host=z8.fragranceninja.com, obfs-uri=/, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.142.200.153-12956
+vmess = z6.fragranceninja.com:12920, method=chacha20-ietf-poly1305, password=a32313ad-5e39-4f9a-9cad-512041790050, tls13=false, obfs=wss, obfs-host=z6.fragranceninja.com, obfs-uri=/, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.142.200.33-12920
+http = 106.54.193.221:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.143.136.82-7890
+vmess = 23.156.152.106:80, method=chacha20-ietf-poly1305, password=2d9a81f6-e86e-48e6-9646-b3b1325f8d61, obfs=ws, obfs-host=syjsq.us4.flyidc.top, obfs-uri=/syjsq/data, fast-open=false, udp-relay=true, tag=🇺🇸US-23.156.152.106-80
+shadowsocks = us5.azxylm.top:30031, method=aes-256-gcm, password=e6540bd8-55d3-46cb-a393-a9594cdd5d51, fast-open=false, udp-relay=true, tag=🇺🇸US-23.160.193.56-30031
+vmess = 120.237.79.157:32998, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.224.180.98-32998
+vmess = 183.236.48.166:45602, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.224.191.26-45602
+vmess = 120.232.153.40:35601, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.224.212.138-35601
+vmess = 183.236.48.166:54602, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.224.68.90-54602
+shadowsocks = 37.19.198.244:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=true, tag=🇺🇸US-37.19.198.244-443
+vmess = pro01.my1188.org:3264, method=chacha20-ietf-poly1305, password=fe0346d9-a972-3d8a-bac7-310604fa108f, tls13=false, obfs=over-tls, obfs-host=FrEeDOM2.paGES.dEV, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-37.9.35.13-3264
+shadowsocks = tw2.mhw7e2.online:20016, method=chacha20-ietf-poly1305, password=70747514-fb14-4f31-8390-e1f0453eff6d, fast-open=false, udp-relay=true, tag=🇺🇸US-38.114.101.171-20016
+shadowsocks = 38.114.114.158:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=🇺🇸US-38.114.114.158-443
+vmess = pro01.my1188.org:3244, method=chacha20-ietf-poly1305, password=fe0346d9-a972-3d8a-bac7-310604fa108f, tls13=false, obfs=over-tls, obfs-host=FrEeDOM2.paGES.dEV, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.180.78.101-3244
+shadowsocks = us3.azxylm.top:45567, method=aes-256-gcm, password=e6540bd8-55d3-46cb-a393-a9594cdd5d51, fast-open=false, udp-relay=true, tag=🇺🇸US-38.6.226.87-45567
+vmess = 38.75.136.56:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, tls13=false, obfs=wss, obfs-host=vip2323.cfd, obfs-uri=/linkvws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.75.136.56-443
+vmess = 38.91.100.228:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, tls13=false, obfs=wss, obfs-host=sareikela.com, obfs-uri=/linkvws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.91.100.228-443
+vmess = 38.91.106.227:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, tls13=false, obfs=wss, obfs-host=megaan.homes, obfs-uri=/linkvws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.91.106.227-443
+vmess = 38.99.82.193:443, method=chacha20-ietf-poly1305, password=03fcc618-b93d-6796-6aed-8a38c975d581, tls13=false, obfs=wss, obfs-host=tilebani.com, obfs-uri=/linkvws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.99.82.193-443
+vmess = 45.130.147.178:40045, method=chacha20-ietf-poly1305, password=33c5909c-fe2f-4f18-9ccb-03bf91ca9d2a, obfs=ws, obfs-host=, obfs-uri=/, fast-open=false, udp-relay=true, tag=🇺🇸US-45.130.147.178-40045
+trojan = 5d54ca014bc8d2edb21d17b59aedb22a.v1.cac.node-is.green:43395, password=299beacf-37f0-41c6-a122-9260c75731bf, over-tls=true, tls-host=us1.speedtest.net, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-5.34.216.45-43395
+vmess = in06.my1188.org:64016, method=chacha20-ietf-poly1305, password=fe0346d9-a972-3d8a-bac7-310604fa108f, fast-open=false, udp-relay=true, tag=🇺🇸US-5.34.218.229-64016
+shadowsocks = 95b1cd85a0968ff2.cdn.jiashule.com:40217, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=86416:SlZFuy, obfs=plain, obfs-host=8195986416.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-50.114.121.138-40217
+http = 51.16.199.206:3128, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-51.16.54.160-3128
+trojan = ecu.zarelay.com:46882, password=2baa2d43-b564-3b1f-92c7-c6fa1ff7e0a2, over-tls=true, tls-host=us-lala2.zodport.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-65.75.221.140-46882
+socks5 = 68.1.210.163:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-68.1.210.163-4145
+socks5 = 68.71.254.6:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-68.71.254.6-4145
+shadowsocks = 69.50.95.138:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=🇺🇸US-69.50.95.138-7307
+shadowsocks = 69.50.95.162:8118, method=aes-256-gcm, password=cdBIDV42DCwnfIN, fast-open=false, udp-relay=true, tag=🇺🇸US-69.50.95.162-8118
+socks5 = 72.195.34.59:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.34.59-4145
+socks5 = 72.37.217.3:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.37.217.3-4145
+socks5 = 72.49.49.11:31034, fast-open=false, udp-relay=true, tag=🇺🇸US-72.49.49.11-31034
+socks5 = 74.119.144.60:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-74.119.144.60-4145
+shadowsocks = 34708.crelay.org:34708, method=aes-128-gcm, password=e123bf80-e21f-45ec-9116-f6db5d3cb6b1, fast-open=false, udp-relay=true, tag=🇺🇸US-74.48.202.36-34708
+vmess = 74.48.4.5:50100, method=chacha20-ietf-poly1305, password=7748cec0-5164-4c52-87cf-55758d80fdaf, fast-open=false, udp-relay=true, tag=🇺🇸US-74.48.4.5-50100
+trojan = cn2.cdn.xfltd-cdn.top:12053, password=d8fb6b9a-46d6-459f-8227-0b6fe7930e0f, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-78.111.104.140-12053
+shadowsocks = sg2.mhw7e2.online:20017, method=chacha20-ietf-poly1305, password=70747514-fb14-4f31-8390-e1f0453eff6d, fast-open=false, udp-relay=true, tag=🇺🇸US-89.213.164.233-20017
+trojan = cn2.cdn.xfltd-cdn.top:12052, password=d8fb6b9a-46d6-459f-8227-0b6fe7930e0f, over-tls=true, tls-host=cdn.alibaba.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-92.223.71.107-12052
+socks5 = 98.188.47.132:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.188.47.132-4145
+socks5 = 98.191.0.47:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.191.0.47-4145
+trojan = scm.zarelayv1.com:39874, password=2baa2d43-b564-3b1f-92c7-c6fa1ff7e0a2, over-tls=true, tls-host=us-katt.zodport.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-99.144.123.229-39874
+trojan = std1.loadingip.com:443, password=94d219c9-1afc-4d42-b090-8b3794764380, over-tls=true, tls-host=, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇻🇳VN-103.74.102.168-443
+shadowsocks = vn.azxylm.top:40251, method=aes-256-gcm, password=e6540bd8-55d3-46cb-a393-a9594cdd5d51, fast-open=false, udp-relay=true, tag=🇻🇳VN-123.31.24.154-40251
+
+
+vmess = s3.cn-db.top:2082, method=chacha20-ietf-poly1305, password=62f7098c-03fd-349f-8dd4-251d952d1c4f, obfs=ws, obfs-host=100-100-17-48.s3.cn-db.top, obfs-uri=/dabai.in172.64.26.82, fast-open=false, udp-relay=true, tag=🇺🇸US-107.175.213.143-2082
+vmess = 198.2.195.6:38005, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.27306103.xyz, obfs-uri=/path/1729936066187, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-137.175.41.97-38005
+vmess = 38.33.61.15:37000, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.13987826.xyz, obfs-uri=/path/1709036799795, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.111.81-37000
+socks5 = 192.111.130.5:17002, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.130.5-17002
+socks5 = 192.252.210.233:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.210.233-4145
+vmess = 142.4.99.52:37002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.90469567.xyz, obfs-uri=/path/191019072927, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.246.147-37002
+shadowsocks = 35.86.117.124:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-35.86.117.124-443
+socks5 = 72.195.114.184:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.114.184-4145
+socks5 = 74.119.144.60:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-74.119.144.60-4145
+vmess = 74.48.4.5:50100, method=chacha20-ietf-poly1305, password=7748cec0-5164-4c52-87cf-55758d80fdaf, fast-open=false, udp-relay=true, tag=🇺🇸US-74.48.4.5-50100
+
+
+http = 104.168.62.130:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-104.168.62.130-7890
+vmess = www.baldengineer.com:443, method=chacha20-ietf-poly1305, password=f584de15-2034-4170-a723-f48c2bae5e0f, tls13=false, obfs=wss, obfs-host=yelan.thelastronin.cloudns.org, obfs-uri=/linkws/afrhms16v.bestxray.buzz, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.237.152.41-443
+trojan = 159.112.235.48:2083, password=bpb-trojan, over-tls=true, tls-host=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.28.152.170-2083
+http = 107.148.146.145:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-107.148.146.145-7890
+vmess = 104.192.86.86:49998, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.57691290.xyz, obfs-uri=/path/091615350227, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-107.148.212.193-49998
+shadowsocks = 107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=true, tag=🇺🇸US-107.155.57.51-8080
+vmess = s2.db-link02.top:2086, method=chacha20-ietf-poly1305, password=62f7098c-03fd-349f-8dd4-251d952d1c4f, obfs=ws, obfs-host=100-100-17-47.s2.db-link02.top, obfs-uri=/dabai.in104.25.116.84, fast-open=false, udp-relay=true, tag=🇺🇸US-107.174.34.6-2086
+shadowsocks = okanc.node-is.green:21105, method=chacha20-ietf-poly1305, password=7e11c6da-307a-4f84-8d37-bb40f53d6fcd, fast-open=false, udp-relay=true, tag=🇺🇸US-107.175.209.217-21105
+vmess = s3.cn-db.top:2082, method=chacha20-ietf-poly1305, password=62f7098c-03fd-349f-8dd4-251d952d1c4f, obfs=ws, obfs-host=100-100-17-48.s3.cn-db.top, obfs-uri=/dabai.in172.64.26.82, fast-open=false, udp-relay=true, tag=🇺🇸US-107.175.213.143-2082
+socks5 = 107.181.161.81:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-107.181.161.81-4145
+socks5 = 107.181.168.145:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-107.181.168.145-4145
+vmess = 172.64.167.25:2082, method=chacha20-ietf-poly1305, password=5f3f09ad-89cb-4e94-a7ad-aa8239913555, obfs=ws, obfs-host=ip16.6929198.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.24.39-2082
+vmess = 104.19.45.90:2095, method=chacha20-ietf-poly1305, password=18d96190-c10f-448f-a82a-2d36df5c3cde, obfs=ws, obfs-host=ip11.6016725.xyz, obfs-uri=/github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.24.55-2095
+trojan = ent1.imyourdaddy.top:21005, password=64f33df2-4f9d-4cf3-bb69-b82b08cf149a, over-tls=true, tls-host=, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-132.145.130.231-21005
+socks5 = 132.148.128.8:51337, fast-open=false, udp-relay=true, tag=🇺🇸US-132.148.128.8-51337
+vmess = 183.236.51.23:40434, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-137.175.20.116-40434
+vmess = 198.2.195.6:38005, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.27306103.xyz, obfs-uri=/path/1729936066187, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-137.175.41.97-38005
+shadowsocks = 137.175.97.159:8388, method=chacha20-ietf, password=asd123456, fast-open=false, udp-relay=true, tag=🇺🇸US-137.175.97.159-8388
+trojan = 104.20.18.168:443, password=bpb-trojan, over-tls=true, tls-host=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-140.238.195.98-443
+vmess = 142.4.103.173:38002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.94152251.xyz, obfs-uri=/path/1719059243025, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.106.209-38002
+vmess = 38.33.61.15:37000, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.13987826.xyz, obfs-uri=/path/1709036799795, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.111.81-37000
+vmess = 192.74.241.165:38003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.88674577.xyz, obfs-uri=/path/1729331099084, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.112.57-38003
+socks5 = 142.54.226.214:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-142.54.226.214-4145
+vmess = 04.kccic2pa.xyz:50004, method=chacha20-ietf-poly1305, password=3c1de58d-0dac-4000-9cc3-4330e1e73578, fast-open=false, udp-relay=true, tag=🇺🇸US-15.204.10.95-50004
+shadowsocks = 150.241.95.62:25486, method=chacha20-ietf-poly1305, password=uz*q6N5=kB, fast-open=false, udp-relay=true, tag=🇺🇸US-150.241.95.62-25486
+shadowsocks = 34707.crelay.org:34707, method=aes-128-gcm, password=20cc2cdb-ca26-4f0c-9461-f058363eda23, fast-open=false, udp-relay=true, tag=🇺🇸US-152.70.119.13-34707
+shadowsocks = 156.146.38.168:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=true, tag=🇺🇸US-156.146.38.168-443
+shadowsocks = 137.175.113.215:8388, method=chacha20-ietf, password=asd123456, fast-open=false, udp-relay=true, tag=🇺🇸US-156.236.142.189-8388
+shadowsocks = 7438974b54cf5c57.cdn.jiashule.com:40211, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=86416:SlZFuy, obfs=plain, obfs-host=8195986416.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-158.101.2.26-40211
+vmess = b.jishuzhai.cloudns.biz:443, method=chacha20-ietf-poly1305, password=62aa5f80-0328-4004-a375-7f5a59df4022, tls13=false, obfs=wss, obfs-host=jiedian.jishuge.eu.org, obfs-uri=/hms19.best-tizi.top:443/linkws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-172.105.156.19-443
+vmess = 183.236.48.161:41490, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.174.74-41490
+vmess = 183.236.48.161:31878, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.174.82-31878
+vmess = 120.232.153.37:42055, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.175.50-42055
+shadowsocks = pro.sr.us01.yunti-relay01.net:29839, method=chacha20-ietf, password=4wMNkIVsgybXfA2u, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=107560:cztSoV, obfs=plain, obfs-host=83f38107560.windows.net, fast-open=false, udp-relay=true, tag=🇺🇸US-173.234.24.2-29839
+socks5 = 174.75.211.222:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.75.211.222-4145
+socks5 = 174.77.111.196:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.77.111.196-4145
+socks5 = 174.77.111.198:49547, fast-open=false, udp-relay=true, tag=🇺🇸US-174.77.111.198-49547
+http = 3.136.29.104:80, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-18.217.19.39-80
+socks5 = 184.170.245.148:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.170.245.148-4145
+socks5 = 184.170.249.65:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.170.249.65-4145
+socks5 = 184.178.172.11:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.11-4145
+socks5 = 184.178.172.13:15311, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.13-15311
+socks5 = 184.178.172.18:15280, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.18-15280
+socks5 = 184.178.172.23:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.23-4145
+socks5 = 184.178.172.26:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.26-4145
+socks5 = 184.178.172.5:15303, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.5-15303
+socks5 = 184.181.217.194:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.181.217.194-4145
+socks5 = 184.181.217.210:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.181.217.210-4145
+http = 44.226.29.99:3128, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-185.220.101.166-3128
+http = 107.148.94.205:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-185.220.238.36-7890
+socks5 = 192.111.130.2:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.130.2-4145
+socks5 = 192.111.137.34:18765, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.137.34-18765
+socks5 = 192.111.137.35:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.137.35-4145
+socks5 = 192.111.137.37:18762, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.137.37-18762
+socks5 = 192.111.138.29:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.138.29-4145
+socks5 = 192.111.139.163:19404, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.139.163-19404
+socks5 = 192.252.208.67:14287, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.208.67-14287
+socks5 = 192.252.210.233:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.210.233-4145
+socks5 = 192.252.211.193:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.211.193-4145
+socks5 = 192.252.214.20:15864, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.214.20-15864
+socks5 = 192.252.215.2:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.215.2-4145
+socks5 = 192.252.216.86:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.216.86-4145
+shadowsocks = zhuliu.zhenxunwudi.top:38045, method=aes-256-gcm, password=2MkHPhqUTQKK7N7D, fast-open=false, udp-relay=true, tag=🇺🇸US-192.3.7.45-38045
+vmess = 142.4.108.135:38007, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.66827194.xyz, obfs-uri=/path/1720963559796, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.228.81-38007
+vmess = 192.74.247.199:30005, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.84626764.xyz, obfs-uri=/path/1729590854151, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.230.101-30005
+vmess = 142.4.96.68:31001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.29675080.xyz, obfs-uri=/path/1728293451968, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.239.1-31001
+vmess = 108.186.31.113:37001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.15303197.xyz, obfs-uri=/path/1728812395713, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.242.193-37001
+vmess = 38.33.55.65:37002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.18999379.xyz, obfs-uri=/path/191019072927, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.245.249-37002
+vmess = 142.4.99.52:37002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.90469567.xyz, obfs-uri=/path/191019072927, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.246.147-37002
+vmess = 192.74.250.196:38002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.63575583.xyz, obfs-uri=/path/1728812395713, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.250.193-38002
+vmess = 183.236.51.23:52112, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-198.200.56.114-52112
+socks5 = 198.8.94.170:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-198.8.94.170-4145
+socks5 = 198.8.94.174:39078, fast-open=false, udp-relay=true, tag=🇺🇸US-198.8.94.174-39078
+vmess = 192.74.231.194:37001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.96601962.xyz, obfs-uri=/path/1728036191894, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-199.180.102.209-37001
+vmess = 192.74.236.130:30004, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.91334565.xyz, obfs-uri=/path/1729936066187, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-199.188.106.225-30004
+vmess = 192.74.242.213:30004, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.28620449.xyz, obfs-uri=/path/1729331796415, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-199.188.111.228-30004
+socks5 = 199.58.185.9:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.58.185.9-4145
+shadowsocks = 28b09af269781f9b.cdn.jiashule.com:40242, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=74592:o4fbeopsgcf, obfs=plain, obfs-host=cd5ed74592.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-2.58.87.152-40242
+shadowsocks = alibaba1.xn--z7x16bf6t.com:25251, method=aes-128-gcm, password=1de124fc-2e1b-47bf-a094-9e7494e87be6, fast-open=false, udp-relay=true, tag=🇺🇸US-205.185.127.23-25251
+socks5 = 208.65.90.3:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-208.65.90.3-4145
+shadowsocks = 208.67.105.196:42029, method=chacha20-ietf-poly1305, password=SjdGCHwafjktt1rzpGxTKYTvVBWb8Xa6E5DTr6MzbdHQSwvpLiDczj3n6MBjy2uyFSzgqgvCWsDQmpM4VQzfPzyGYF58wdyD, fast-open=false, udp-relay=true, tag=🇺🇸US-208.67.105.196-42029
+vmess = 104.21.238.200:8443, method=chacha20-ietf-poly1305, password=9201ffaa-6ca3-4f57-8b1f-266a2f390e43, tls13=false, obfs=wss, obfs-host=http1.9290254.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-208.87.243.123-8443
+http = 209.141.33.104:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-209.141.33.104-7890
+shadowsocks = 212.102.47.131:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=true, tag=🇺🇸US-212.102.47.131-443
+http = 13.234.24.116:1080, username=none, password=none, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.129.64.173-1080
+shadowsocks = 23.134.94.168:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=🇺🇸US-23.134.94.168-3389
+http = 36.251.111.219:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.143.136.82-7890
+shadowsocks = 23.154.136.100:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=🇺🇸US-23.154.136.100-8090
+vmess = 120.232.153.40:35601, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.224.212.138-35601
+vmess = 23.224.6.211:30003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.29379463.xyz, obfs-uri=/path/091615350227, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.224.69.10-30003
+vmess = 23.224.101.115:36000, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.72170246.xyz, obfs-uri=/path/091615350227, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.224.82.170-36000
+vmess = 112.3.31.239:60045, method=chacha20-ietf-poly1305, password=0e9102ca-477e-47a1-a2c8-f734daf7cc34, tls13=false, obfs=over-tls, obfs-host=www.72170246.xyz, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.247.136.225-60045
+vmess = us1asjdbhb9.1015ddns01.info:60044, method=chacha20-ietf-poly1305, password=0e9102ca-477e-47a1-a2c8-f734daf7cc34, tls13=false, obfs=over-tls, obfs-host=www.72170246.xyz, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.247.136.226-60044
+shadowsocks = 84858fa.u2.gladns.com:2377, method=chacha20-ietf-poly1305, password=t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, obfs=tls, obfs-host=84858fa.vpnhat.t.me:73643, fast-open=false, udp-relay=true, tag=🇺🇸US-23.247.137.158-2377
+shadowsocks = 84858fa.u6.gladns.com:2377, method=chacha20-ietf-poly1305, password=t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, obfs=tls, obfs-host=84858fa.vpnhat.t.me:73643, fast-open=false, udp-relay=true, tag=🇺🇸US-23.247.137.161-2377
+shadowsocks = 84858fa.f3.gladns.com:2377, method=chacha20-ietf-poly1305, password=t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, obfs=tls, obfs-host=84858fa.vpnhat.t.me:73643, fast-open=false, udp-relay=true, tag=🇺🇸US-23.247.137.164-2377
+trojan = naiu-us.05vr9nyqg5.download:13021, password=5b4becce-5739-483f-97ec-68b81a855d68, over-tls=true, tls-host=cloudflare.node-ssl.cdn-alibaba.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.247.137.96-13021
+http = 3.141.217.225:80, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-3.136.84.9-80
+vmess = 15086.kuaiyin02.top:15086, method=chacha20-ietf-poly1305, password=9f513161-576b-3abc-9c98-06e52c3a24c6, fast-open=false, udp-relay=true, tag=🇺🇸US-31.223.184.124-15086
+shadowsocks = 34.209.103.254:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-34.209.103.254-443
+trojan = us003.421421.xyz:20230, password=47072f01-8e77-4136-8e85-b0f0d9d08f1d, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-34.216.167.77-20230
+shadowsocks = 35.86.117.124:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-35.86.117.124-443
+shadowsocks = 35.87.185.248:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-35.87.185.248-443
+vmess = 38.11.20.73:38001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.45174198.xyz, obfs-uri=/path/1729070287807, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.11.20.65-38001
+shadowsocks = 38.121.43.27:8009, method=aes-256-gcm, password=XKFKl2rULjIp74, fast-open=false, udp-relay=true, tag=🇺🇸US-38.121.43.27-8009
+shadowsocks = 38.121.43.65:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=🇺🇸US-38.121.43.65-2375
+vmess = 38.33.0.232:38001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.30448644.xyz, obfs-uri=/path/1727946928040, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.14.68.129-38001
+vmess = 38.33.24.68:37001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.89655249.xyz, obfs-uri=/path/191019072927, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.33.24.65-37001
+vmess = 38.33.1.170:37003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.13236255.xyz, obfs-uri=/path/1728812395713, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.33.55.97-37003
+socks5 = 3.9.71.167:3128, fast-open=false, udp-relay=true, tag=🇺🇸US-45.66.35.21-3128
+http = 47.88.31.196:8080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-47.88.31.196-8080
+http = 47.89.184.18:3128, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-47.89.184.18-3128
+trojan = vn.mjt000.com:443, password=7afe8ae2-e414-4f8b-b0ac-f30f7de751f8, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-5.104.107.135-443
+http = 116.211.228.197:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-5.34.216.110-7890
+shadowsocks = okanc.node-is.green:21104, method=chacha20-ietf-poly1305, password=7e11c6da-307a-4f84-8d37-bb40f53d6fcd, fast-open=false, udp-relay=true, tag=🇺🇸US-5.34.216.45-21104
+shadowsocks = 95b1cd85a0968ff2.cdn.jiashule.com:40217, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=86416:SlZFuy, obfs=plain, obfs-host=8195986416.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-50.114.121.138-40217
+http = 51.17.58.162:3128, username=none, password=none, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-51.16.245.219-3128
+shadowsocks = dajbxus.naikonode1.top:15101, method=chacha20-ietf, password=NaikoCloud, ssr-protocol=auth_aes128_md5, ssr-protocol-param=40208:yYyiNvXTethxtYP7, obfs=plain, obfs-host=83e2a40208.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-51.81.227.240-15101
+shadowsocks = 52.10.33.211:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-52.10.33.211-443
+shadowsocks = 54.185.199.99:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.185.199.99-443
+shadowsocks = 54.200.148.115:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.200.148.115-443
+shadowsocks = 54.213.247.125:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.213.247.125-443
+shadowsocks = 54.68.160.24:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.68.160.24-443
+http = 44.195.247.145:80, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-54.80.43.15-80
+http = 150.158.10.55:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-64.32.13.233-7890
+shadowsocks = 64.74.163.130:990, method=chacha20-ietf-poly1305, password=f8f7aCzcPKbsF8p3, fast-open=false, udp-relay=true, tag=🇺🇸US-64.74.163.130-990
+vmess = 66.241.124.229:443, method=chacha20-ietf-poly1305, password=ea4909ef-7ca6-4b46-bf2e-6c07896ef338, tls13=false, obfs=wss, obfs-host=, obfs-uri=/ea4909ef-7ca6-4b46-bf2e-6c07896ef338-vm, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-66.225.214.66-443
+socks5 = 68.1.210.189:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-68.1.210.189-4145
+socks5 = 68.71.249.153:48606, fast-open=false, udp-relay=true, tag=🇺🇸US-68.71.249.153-48606
+socks5 = 69.61.200.104:36181, fast-open=false, udp-relay=true, tag=🇺🇸US-69.61.200.104-36181
+socks5 = 70.166.167.55:57745, fast-open=false, udp-relay=true, tag=🇺🇸US-70.166.167.55-57745
+socks5 = 72.195.114.184:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.114.184-4145
+socks5 = 72.195.34.41:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.34.41-4145
+socks5 = 72.195.34.42:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.34.42-4145
+socks5 = 72.195.34.60:27391, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.34.60-27391
+socks5 = 74.119.144.60:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-74.119.144.60-4145
+socks5 = 74.119.147.209:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-74.119.147.209-4145
+shadowsocks = 34708.crelay.org:34708, method=aes-128-gcm, password=20cc2cdb-ca26-4f0c-9461-f058363eda23, fast-open=false, udp-relay=true, tag=🇺🇸US-74.48.202.36-34708
+vmess = 74.48.4.5:50100, method=chacha20-ietf-poly1305, password=7748cec0-5164-4c52-87cf-55758d80fdaf, fast-open=false, udp-relay=true, tag=🇺🇸US-74.48.4.5-50100
+http = 15.204.161.192:18080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-77.111.247.54-18080
+shadowsocks = 84858fa.db.gladns.com:2377, method=chacha20-ietf-poly1305, password=t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, obfs=tls, obfs-host=84858fa.vpnhat.t.me:73643, fast-open=false, udp-relay=true, tag=🇺🇸US-88.210.36.106-2377
+shadowsocks = 84858fa.d1.gladns.com:2377, method=chacha20-ietf-poly1305, password=t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, obfs=tls, obfs-host=84858fa.vpnhat.t.me:73643, fast-open=false, udp-relay=true, tag=🇺🇸US-95.174.71.28-2377
+socks5 = 98.170.57.241:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.170.57.241-4145
+socks5 = 98.170.57.249:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.170.57.249-4145
+socks5 = 98.175.31.195:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.175.31.195-4145
+socks5 = 98.175.31.222:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.175.31.222-4145
+socks5 = 98.181.137.80:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.181.137.80-4145
+socks5 = 98.191.0.47:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.191.0.47-4145
+vmess = yn0076.alibabaokz.com:60040, method=chacha20-ietf-poly1305, password=968b1745-834b-4df9-ad31-db478d20d0f9, fast-open=false, udp-relay=true, tag=🇻🇳VN-103.186.146.182-60040
+http = 103.56.157.223:8080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-113.185.41.88-8080
+shadowsocks = 34724.crelay.org:34724, method=aes-128-gcm, password=20cc2cdb-ca26-4f0c-9461-f058363eda23, fast-open=false, udp-relay=true, tag=🇻🇳VN-157.10.53.136-34724
+http = 45.122.240.154:3128, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-202.93.156.70-3128
+http = 222.252.194.29:8080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-222.252.194.29-8080
+trojan = std1.loadingip.com:443, password=94d219c9-1afc-4d42-b090-8b3794764380, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-36.50.134.26-443
+trojan = 36.50.134.29:443, password=94d219c9-1afc-4d42-b090-8b3794764380, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-36.50.134.29-443
+http = 13.246.184.110:3128, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇿🇦ZA-13.246.198.157-3128
+http = 13.246.209.48:1080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇿🇦ZA-13.247.99.26-1080
+
+trojan = 159.112.235.48:2083, password=bpb-trojan, over-tls=true, tls-host=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.28.152.168-2083
+trojan = 185.238.228.6:443, password=bpb-trojan, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-104.28.152.171-443
+trojan = 104.18.37.111:443, password=bpb-trojan, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-104.28.152.174-443
+trojan = 172.66.47.53:443, password=bpb-trojan, over-tls=true, tls-host=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.28.152.183-443
+trojan = 172.66.47.117:8443, password=bpb-trojan, over-tls=true, tls-host=AZaDneT-Hwt.pAGES.dev, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.28.152.184-8443
+trojan = 159.112.235.48:2083, password=bpb-trojan, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-104.28.157.102-2083
+trojan = 23.227.60.8:443, password=bpb-trojan, over-tls=true, tls-host=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.28.157.116-443
+trojan = 104.20.18.168:443, password=bpb-trojan, over-tls=true, tls-host=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.28.158.250-443
+trojan = 23.227.60.8:443, password=bpb-trojan, over-tls=true, tls-host=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-104.28.159.244-443
+socks5 = 104.37.135.145:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-104.37.135.145-4145
+http = 107.148.146.145:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-107.148.146.145-7890
+vmess = 104.192.86.86:49998, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.57691290.xyz, obfs-uri=/path/091615350227, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-107.148.212.193-49998
+shadowsocks = 223.111.134.99:22027, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-107.172.8.6-22027
+http = 107.172.83.252:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-107.172.83.252-7890
+vmess = 107.173.50.200:10010, method=chacha20-ietf-poly1305, password=1bee251f-d438-4585-ab35-10ef7c3d4648, fast-open=false, udp-relay=true, tag=🇺🇸US-107.173.50.200-10010
+vmess = s2.db-link02.top:2082, method=chacha20-ietf-poly1305, password=62f7098c-03fd-349f-8dd4-251d952d1c4f, obfs=ws, obfs-host=100-100-17-489.s2.db-link02.top, obfs-uri=/dabai.in104.16.66.119, fast-open=false, udp-relay=true, tag=🇺🇸US-107.174.34.6-2082
+shadowsocks = okanc.node-is.green:21106, method=chacha20-ietf-poly1305, password=aa03c45c-08e2-430f-85c4-8a0b60034f34, fast-open=false, udp-relay=true, tag=🇺🇸US-107.175.209.217-21106
+vmess = s3.cn-db.top:2082, method=chacha20-ietf-poly1305, password=62f7098c-03fd-349f-8dd4-251d952d1c4f, obfs=ws, obfs-host=100-100-17-48.s3.cn-db.top, obfs-uri=/dabai.in172.64.26.82, fast-open=false, udp-relay=true, tag=🇺🇸US-107.175.213.143-2082
+vmess = 104.19.47.65:2082, method=chacha20-ietf-poly1305, password=5f3f09ad-89cb-4e94-a7ad-aa8239913555, obfs=ws, obfs-host=ip20.6929198.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.24.39-2082
+vmess = 104.19.45.90:2095, method=chacha20-ietf-poly1305, password=18d96190-c10f-448f-a82a-2d36df5c3cde, obfs=ws, obfs-host=ip11.6016725.xyz, obfs-uri=/github.com/Alvin9999, fast-open=false, udp-relay=true, tag=🇺🇸US-108.181.24.55-2095
+vmess = us-new03.daluquan.top:8880, method=chacha20-ietf-poly1305, password=842ebb9e-6a75-45b2-9f89-75b9d6feb53c, obfs=ws, obfs-host=us-new03.daluquan.top, obfs-uri=/itdog?ed=2560, fast-open=false, udp-relay=true, tag=🇺🇸US-129.148.38.229-8880
+trojan = 23.227.60.8:443, password=bpb-trojan, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-129.150.50.63-443
+trojan = naiu-sg.05vr9nyqg5.download:13030, password=5b4becce-5739-483f-97ec-68b81a855d68, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-129.150.53.117-13030
+trojan = ent1.imyourdaddy.top:21005, password=64f33df2-4f9d-4cf3-bb69-b82b08cf149a, over-tls=true, tls-host=, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-132.145.130.231-21005
+vmess = 104.21.226.93:443, method=chacha20-ietf-poly1305, password=b9e82117-ed3a-4098-8153-100ca12aa523, tls13=false, obfs=over-tls, obfs-host=, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-136.244.88.97-443
+vmess = 183.236.51.23:40434, method=none, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-137.175.20.116-40434
+vmess = 38.11.49.34:38003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.30471929.xyz, obfs-uri=/path/1729331099084, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-137.175.32.60-38003
+vmess = 198.2.195.6:38005, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.27306103.xyz, obfs-uri=/path/1729936066187, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-137.175.41.97-38005
+vmess = 142.0.134.242:45017, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-137.175.55.178-45017
+shadowsocks = 137.175.97.159:8388, method=chacha20-ietf, password=asd123456, fast-open=false, udp-relay=true, tag=🇺🇸US-137.175.97.159-8388
+trojan = 185.238.228.6:443, password=bpb-trojan, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-141.147.184.160-443
+vmess = 38.38.152.103:38003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.43539481.xyz, obfs-uri=/path/1729935251660, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.105.212-38003
+vmess = 142.4.103.173:38002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.94152251.xyz, obfs-uri=/path/1719059243025, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.106.209-38002
+vmess = 38.33.61.15:37000, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.13987826.xyz, obfs-uri=/path/1709036799795, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.111.81-37000
+vmess = 192.74.241.165:38003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.88674577.xyz, obfs-uri=/path/1729331099084, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-142.4.112.57-38003
+shadowsocks = 36.133.9.177:22014, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-146.19.167.111-22014
+http = 147.28.155.20:10063, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-147.28.155.20-10063
+http = 199.195.253.14:1080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-149.87.144.34-1080
+shadowsocks = 34707.crelay.org:34707, method=aes-128-gcm, password=8d8daf8b-81b9-4a30-b171-e00b8e9c8f74, fast-open=false, udp-relay=true, tag=🇺🇸US-152.70.119.13-34707
+vmess = in06.my1188.org:64003, method=chacha20-ietf-poly1305, password=fe0346d9-a972-3d8a-bac7-310604fa108f, fast-open=false, udp-relay=true, tag=🇺🇸US-154.26.158.71-64003
+shadowsocks = 156.146.38.168:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=true, tag=🇺🇸US-156.146.38.168-443
+shadowsocks = 137.175.113.192:8388, method=chacha20-ietf, password=asd123456, fast-open=false, udp-relay=true, tag=🇺🇸US-156.236.151.173-8388
+shadowsocks = 7438974b54cf5c57.cdn.jiashule.com:40210, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=86416:SlZFuy, obfs=plain, obfs-host=8195986416.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-158.101.2.26-40210
+vmess = 120.232.153.37:50095, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-162.209.140.218-50095
+socks5 = 172.233.25.232:1080, fast-open=false, udp-relay=true, tag=🇺🇸US-172.233.25.232-1080
+vmess = 183.236.48.161:41490, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.174.74-41490
+vmess = 183.236.48.161:31878, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.174.82-31878
+vmess = 120.232.153.37:42055, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-172.247.175.50-42055
+vmess = b.jishuzhai.cloudns.biz:443, method=chacha20-ietf-poly1305, password=f584de15-2034-4170-a723-f48c2bae5e0f, tls13=false, obfs=wss, obfs-host=jiedian.jishuge.eu.org, obfs-uri=/afrhms16v.bestxray.buzz:443/linkws, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-173.230.153.214-443
+shadowsocks = pro.sr.us01.yunti-relay01.net:29839, method=chacha20-ietf, password=4wMNkIVsgybXfA2u, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=107560:cztSoV, obfs=plain, obfs-host=83f38107560.windows.net, fast-open=false, udp-relay=true, tag=🇺🇸US-173.234.24.2-29839
+socks5 = 174.64.199.79:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.64.199.79-4145
+socks5 = 174.64.199.82:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.64.199.82-4145
+socks5 = 174.75.211.193:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.75.211.193-4145
+socks5 = 174.75.211.222:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.75.211.222-4145
+socks5 = 174.77.111.196:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.77.111.196-4145
+socks5 = 174.77.111.197:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-174.77.111.197-4145
+http = 3.130.65.162:80, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-18.117.96.88-80
+socks5 = 184.170.245.148:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.170.245.148-4145
+socks5 = 184.170.249.65:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.170.249.65-4145
+socks5 = 184.178.172.13:15311, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.13-15311
+socks5 = 184.178.172.14:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.14-4145
+socks5 = 184.178.172.18:15280, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.18-15280
+socks5 = 184.178.172.26:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.26-4145
+socks5 = 184.178.172.28:15294, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.28-15294
+socks5 = 184.178.172.5:15303, fast-open=false, udp-relay=true, tag=🇺🇸US-184.178.172.5-15303
+socks5 = 184.181.217.201:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.181.217.201-4145
+socks5 = 184.181.217.220:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.181.217.220-4145
+socks5 = 184.185.2.12:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-184.185.2.12-4145
+socks5 = 192.111.129.145:16894, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.129.145-16894
+socks5 = 192.111.129.150:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.129.150-4145
+socks5 = 192.111.130.5:17002, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.130.5-17002
+socks5 = 192.111.135.17:18302, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.135.17-18302
+socks5 = 192.111.137.35:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.137.35-4145
+socks5 = 192.111.138.29:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.138.29-4145
+socks5 = 192.111.139.162:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.139.162-4145
+socks5 = 192.111.139.165:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.111.139.165-4145
+vmess = 120.232.153.71:34565, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-192.151.223.154-34565
+socks5 = 192.252.208.67:14287, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.208.67-14287
+socks5 = 192.252.208.70:14282, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.208.70-14282
+socks5 = 192.252.209.158:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.209.158-4145
+socks5 = 192.252.210.233:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.210.233-4145
+socks5 = 192.252.211.197:14921, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.211.197-14921
+socks5 = 192.252.215.5:16137, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.215.5-16137
+socks5 = 192.252.216.81:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-192.252.216.81-4145
+shadowsocks = 36.150.27.84:22025, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-192.3.253.108-22025
+shadowsocks = zhuliu.zhenxunwudi.top:38045, method=aes-256-gcm, password=2MkHPhqUTQKK7N7D, fast-open=false, udp-relay=true, tag=🇺🇸US-192.3.7.45-38045
+vmess = 142.4.108.135:38007, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.66827194.xyz, obfs-uri=/path/1720963559796, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.228.81-38007
+vmess = 192.74.247.199:30005, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.84626764.xyz, obfs-uri=/path/1729590854151, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.230.101-30005
+vmess = 142.4.96.68:31001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.29675080.xyz, obfs-uri=/path/1728293451968, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.239.1-31001
+vmess = 108.186.31.113:37001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.15303197.xyz, obfs-uri=/path/1728812395713, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.242.193-37001
+vmess = 38.33.55.65:37002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.18999379.xyz, obfs-uri=/path/191019072927, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.245.249-37002
+vmess = 142.4.99.52:37002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.90469567.xyz, obfs-uri=/path/191019072927, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.246.147-37002
+vmess = 192.74.250.196:38002, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.63575583.xyz, obfs-uri=/path/1728812395713, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-192.74.250.193-38002
+trojan = 159.112.235.48:2083, password=bpb-trojan, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-192.9.177.204-2083
+shadowsocks = 223.111.134.99:22012, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-193.233.204.67-22012
+shadowsocks = us1.acxylm.top:26800, method=aes-256-gcm, password=9b439158-70e4-42ca-b70b-705430c3270c, fast-open=false, udp-relay=true, tag=🇺🇸US-194.135.104.133-26800
+vmess = 183.236.51.23:52112, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-198.200.56.114-52112
+socks5 = 198.8.94.170:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-198.8.94.170-4145
+socks5 = 198.8.94.174:39078, fast-open=false, udp-relay=true, tag=🇺🇸US-198.8.94.174-39078
+socks5 = 199.116.112.6:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.116.112.6-4145
+vmess = 192.74.231.205:37001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.96601962.xyz, obfs-uri=/path/1728812675979, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-199.180.102.209-37001
+vmess = 192.74.236.157:30004, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.91334565.xyz, obfs-uri=/path/1729850945832, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-199.188.106.225-30004
+socks5 = 199.229.254.129:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.229.254.129-4145
+trojan = 23.227.60.8:443, password=bpb-trojan, over-tls=true, tls-host=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-199.38.148.127-443
+socks5 = 199.58.184.97:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.58.184.97-4145
+socks5 = 199.58.185.9:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-199.58.185.9-4145
+shadowsocks = 28b09af269781f9b.cdn.jiashule.com:40243, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=74592:o4fbeopsgcf, obfs=plain, obfs-host=cd5ed74592.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-2.58.87.152-40243
+socks5 = 163.172.140.109:16379, fast-open=false, udp-relay=true, tag=🇺🇸US-204.8.96.87-16379
+shadowsocks = alibaba1.xn--z7x16bf6t.com:25251, method=aes-128-gcm, password=1de124fc-2e1b-47bf-a094-9e7494e87be6, fast-open=false, udp-relay=true, tag=🇺🇸US-205.185.127.23-25251
+socks5 = 208.65.90.21:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-208.65.90.21-4145
+vmess = 104.21.238.202:8443, method=chacha20-ietf-poly1305, password=9201ffaa-6ca3-4f57-8b1f-266a2f390e43, tls13=false, obfs=wss, obfs-host=http1.9290254.xyz, obfs-uri=github.com/Alvin9999, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-208.87.243.123-8443
+shadowsocks = 212.102.47.131:443, method=aes-128-gcm, password=shadowsocks, fast-open=false, udp-relay=true, tag=🇺🇸US-212.102.47.131-443
+shadowsocks = us2.acxylm.top:14209, method=aes-256-gcm, password=9b439158-70e4-42ca-b70b-705430c3270c, fast-open=false, udp-relay=true, tag=🇺🇸US-217.145.75.145-14209
+socks5 = 163.172.140.109:16379, fast-open=false, udp-relay=true, tag=🇺🇸US-23.129.64.171-16379
+http = 52.35.240.119:1080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.129.64.172-1080
+http = 65.1.40.47:1080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.129.64.173-1080
+shadowsocks = 23.134.94.168:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=🇺🇸US-23.134.94.168-3389
+http = 36.251.111.219:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.143.136.72-7890
+http = 139.196.12.200:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.143.136.82-7890
+shadowsocks = 23.154.136.100:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=🇺🇸US-23.154.136.100-8090
+shadowsocks = us5.acxylm.top:30031, method=aes-256-gcm, password=9b439158-70e4-42ca-b70b-705430c3270c, fast-open=false, udp-relay=true, tag=🇺🇸US-23.160.193.56-30031
+vmess = 120.232.153.40:35601, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, fast-open=false, udp-relay=true, tag=🇺🇸US-23.224.212.138-35601
+vmess = 23.224.6.211:30003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.29379463.xyz, obfs-uri=/path/091615350227, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.224.69.10-30003
+vmess = 23.224.101.116:36000, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.62377593.xyz, obfs-uri=/path/091615350227, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.224.82.170-36000
+vmess = us1asjdbhb9.1015ddns01.info:60044, method=chacha20-ietf-poly1305, password=6f154b03-1e44-488c-9cb4-7f12910b4f14, tls13=false, obfs=over-tls, obfs-host=www.62377593.xyz, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.247.136.226-60044
+trojan = naiu-us.05vr9nyqg5.download:13021, password=5b4becce-5739-483f-97ec-68b81a855d68, over-tls=true, tls-host=cloudflare.node-ssl.cdn-alibaba.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-23.247.137.96-13021
+shadowsocks = sgp2.acxylm.top:48417, method=aes-256-gcm, password=9b439158-70e4-42ca-b70b-705430c3270c, fast-open=false, udp-relay=true, tag=🇺🇸US-23.94.192.6-48417
+socks5 = 24.249.199.12:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-24.249.199.12-4145
+http = 3.141.217.225:80, username=none, password=none, over-tls=true, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-3.17.161.95-80
+shadowsocks = 34.216.240.225:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-34.216.240.225-443
+shadowsocks = 35.160.185.203:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-35.160.185.203-443
+shadowsocks = 35.86.117.124:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-35.86.117.124-443
+shadowsocks = 35.87.185.248:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-35.87.185.248-443
+http = 34.215.74.117:3128, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-35.88.241.242-3128
+shadowsocks = 35.94.16.186:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-35.94.16.186-443
+vmess = 38.11.20.82:38001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.45174198.xyz, obfs-uri=/path/1729590440670, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.11.20.65-38001
+shadowsocks = 38.110.1.105:8119, method=aes-256-gcm, password=cdBIDV42DCwnfIN, fast-open=false, udp-relay=true, tag=🇺🇸US-38.110.1.105-8119
+shadowsocks = 38.121.43.27:6697, method=aes-256-gcm, password=TEzjfAYq2IjtuoS, fast-open=false, udp-relay=true, tag=🇺🇸US-38.121.43.27-6697
+vmess = 38.33.0.232:38001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.30448644.xyz, obfs-uri=/path/1727946928040, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.14.68.129-38001
+shadowsocks = us4.acxylm.top:42442, method=aes-256-gcm, password=9b439158-70e4-42ca-b70b-705430c3270c, fast-open=false, udp-relay=true, tag=🇺🇸US-38.150.0.231-42442
+shadowsocks = 112.5.37.116:22048, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-38.150.34.222-22048
+http = 38.180.190.65:8888, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-38.180.190.65-8888
+vmess = 38.33.24.92:37001, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.89655249.xyz, obfs-uri=/path/1727946928040, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.33.24.65-37001
+vmess = 38.33.1.170:37003, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, aead=false, tls13=false, obfs=wss, obfs-host=www.13236255.xyz, obfs-uri=/path/1728812395713, fast-open=false, udp-relay=true, tls-verification=false, tag=🇺🇸US-38.33.55.97-37003
+vmess = 15074.kuaiyin02.top:15074, method=chacha20-ietf-poly1305, password=9f513161-576b-3abc-9c98-06e52c3a24c6, fast-open=false, udp-relay=true, tag=🇺🇸US-38.54.45.190-15074
+shadowsocks = us3.acxylm.top:45567, method=aes-256-gcm, password=9b439158-70e4-42ca-b70b-705430c3270c, fast-open=false, udp-relay=true, tag=🇺🇸US-38.6.226.87-45567
+shadowsocks = 112.5.37.116:22031, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-38.60.202.199-22031
+shadowsocks = 38.75.136.117:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=🇺🇸US-38.75.136.117-5003
+http = 4.155.2.13:9443, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-4.155.2.13-9443
+shadowsocks = 44.243.115.246:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-44.243.115.246-443
+shadowsocks = 36.133.9.177:22013, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-45.12.82.212-22013
+shadowsocks = 36.150.27.84:22022, method=aes-256-gcm, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-45.145.154.179-22022
+vmess = 36.133.9.177:23566, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, obfs=ws, obfs-host=, obfs-uri=/usB, fast-open=false, udp-relay=true, tag=🇺🇸US-45.154.214.216-23566
+shadowsocks = 112.5.37.116:22047, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-45.42.141.45-22047
+shadowsocks = 36.133.9.177:22046, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇺🇸US-45.89.104.66-22046
+http = 139.9.37.188:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-46.232.121.218-7890
+http = 47.88.31.196:8080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-47.88.31.196-8080
+http = 116.211.228.197:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-5.34.216.110-7890
+shadowsocks = okanc.node-is.green:21104, method=chacha20-ietf-poly1305, password=aa03c45c-08e2-430f-85c4-8a0b60034f34, fast-open=false, udp-relay=true, tag=🇺🇸US-5.34.216.45-21104
+vmess = in06.my1188.org:64016, method=chacha20-ietf-poly1305, password=fe0346d9-a972-3d8a-bac7-310604fa108f, fast-open=false, udp-relay=true, tag=🇺🇸US-5.34.218.229-64016
+shadowsocks = 95b1cd85a0968ff2.cdn.jiashule.com:40204, method=rc4-md5, password=ENZ52K, ssr-protocol=auth_aes128_md5, ssr-protocol-param=86416:SlZFuy, obfs=plain, obfs-host=8195986416.6602b8463464108506.microsoft.com, fast-open=false, udp-relay=true, tag=🇺🇸US-50.114.121.138-40204
+shadowsocks = 52.10.33.211:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-52.10.33.211-443
+shadowsocks = 54.185.199.99:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.185.199.99-443
+shadowsocks = 54.200.148.115:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.200.148.115-443
+shadowsocks = 54.213.247.125:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.213.247.125-443
+shadowsocks = 54.68.160.24:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸US-54.68.160.24-443
+http = 150.158.10.55:7890, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-64.32.13.233-7890
+socks5 = 66.42.224.229:41679, fast-open=false, udp-relay=true, tag=🇺🇸US-66.42.224.229-41679
+socks5 = 67.205.177.122:52826, fast-open=false, udp-relay=true, tag=🇺🇸US-67.205.177.122-52826
+socks5 = 68.1.210.189:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-68.1.210.189-4145
+socks5 = 68.71.241.33:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-68.71.241.33-4145
+socks5 = 68.71.245.206:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-68.71.245.206-4145
+socks5 = 68.71.254.6:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-68.71.254.6-4145
+socks5 = 69.61.200.104:36181, fast-open=false, udp-relay=true, tag=🇺🇸US-69.61.200.104-36181
+socks5 = 70.166.167.38:57728, fast-open=false, udp-relay=true, tag=🇺🇸US-70.166.167.38-57728
+socks5 = 70.166.167.55:57745, fast-open=false, udp-relay=true, tag=🇺🇸US-70.166.167.55-57745
+socks5 = 72.195.101.99:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.101.99-4145
+socks5 = 72.195.114.169:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.114.169-4145
+socks5 = 72.195.114.184:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.195.114.184-4145
+socks5 = 72.205.0.93:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.205.0.93-4145
+socks5 = 72.214.108.67:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-72.214.108.67-4145
+socks5 = 74.119.144.60:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-74.119.144.60-4145
+socks5 = 74.119.147.209:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-74.119.147.209-4145
+shadowsocks = 34708.crelay.org:34708, method=aes-128-gcm, password=8d8daf8b-81b9-4a30-b171-e00b8e9c8f74, fast-open=false, udp-relay=true, tag=🇺🇸US-74.48.202.36-34708
+vmess = 74.48.4.5:50100, method=chacha20-ietf-poly1305, password=7748cec0-5164-4c52-87cf-55758d80fdaf, fast-open=false, udp-relay=true, tag=🇺🇸US-74.48.4.5-50100
+http = 15.204.161.192:18080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-77.111.246.31-18080
+http = 15.204.161.192:18080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-77.111.247.119-18080
+trojan = 159.112.235.48:2083, password=bpb-trojan, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-91.107.243.69-2083
+socks5 = 212.47.236.46:16379, fast-open=false, udp-relay=true, tag=🇺🇸US-91.206.26.26-16379
+socks5 = 98.170.57.241:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.170.57.241-4145
+socks5 = 98.170.57.249:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.170.57.249-4145
+socks5 = 98.175.31.195:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.175.31.195-4145
+socks5 = 98.181.137.80:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.181.137.80-4145
+socks5 = 98.188.47.132:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.188.47.132-4145
+socks5 = 98.188.47.150:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.188.47.150-4145
+socks5 = 98.191.0.37:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.191.0.37-4145
+socks5 = 98.191.0.47:4145, fast-open=false, udp-relay=true, tag=🇺🇸US-98.191.0.47-4145
+trojan = ecu.zarelay.com:39874, password=a4d4dd16-c1fc-36b9-881d-8d4d73091e48, over-tls=false, fast-open=false, udp-relay=true, tag=🇺🇸US-99.144.123.229-39874
+shadowsocks = 36.133.9.177:22019, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇻🇳VN-103.183.113.14-22019
+trojan = 103.77.247.227:443, password=40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-103.77.247.227-443
+http = 14.188.7.35:8080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-14.188.7.35-8080
+shadowsocks = 34724.crelay.org:34724, method=aes-128-gcm, password=8d8daf8b-81b9-4a30-b171-e00b8e9c8f74, fast-open=false, udp-relay=true, tag=🇻🇳VN-157.10.53.136-34724
+http = 222.252.194.29:8080, username=none, password=none, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-222.252.194.29-8080
+trojan = 36.50.134.26:443, password=94d219c9-1afc-4d42-b090-8b3794764380, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-36.50.134.26-443
+trojan = bs1.loadingip.com:443, password=94d219c9-1afc-4d42-b090-8b3794764380, over-tls=false, fast-open=false, udp-relay=true, tag=🇻🇳VN-36.50.134.29-443
+shadowsocks = 36.133.9.177:22042, method=chacha20-ietf-poly1305, password=9f9fc181-c1a0-4553-97b2-735579b6a3de, fast-open=false, udp-relay=true, tag=🇿🇦ZA-156.38.157.167-22042
