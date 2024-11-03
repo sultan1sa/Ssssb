@@ -1,3 +1,4 @@
+shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=true, tag=🇺🇸US-107.155.57.51-8080
 shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=false, tag=🇺🇸 US-107.155.57.51-8080
 vless://54ac2926-5c9e-444d-bc60-720fd2e48141@us2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#vless-gRPC
 vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtdGxzIiwiYWRkIjoidXMyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsInBvcnQiOiI0NDMiLCJpZCI6IjU0YWMyOTI2LTVjOWUtNDQ0ZC1iYzYwLTcyMGZkMmU0ODE0MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvUkFDRVZQTiIsInRscyI6InRscyJ9
