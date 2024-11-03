@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiJ1c3YtMy5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwiaWQiOiJhNDBkMzRjNi1iNzdjLTQ2NDgtOTIxMC0zZThkMmY0MjI2YjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb3BlbnR1bm5lbD91c2VyPW9wZW50dW5uZWwubmV0LWFsb29rMTUiLCJwb3J0IjoiNDQzIiwicHMiOiJvcGVudHVubmVsLm5ldC1hbG9vazE1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 shadowsocks=2a0d:c740:3c:1::4d56:7f45:47529, method=aes-256-gcm, password=@GetNetworkBot, fast-open=false, udp-relay=false, tag=🇺🇸 US warp ◈ tcp:47529 ◈ a9d37
 shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=true, tag=🇺🇸US-107.155.57.51-8080
 shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=false, tag=🇺🇸 US-107.155.57.51-8080
