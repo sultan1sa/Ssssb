@@ -1,3 +1,4 @@
+shadowsocks=2a0d:c740:3c:1::4d56:7f45:47529, method=aes-256-gcm, password=@GetNetworkBot, fast-open=false, udp-relay=false, tag=🇺🇸 US warp ◈ tcp:47529 ◈ a9d37
 shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=true, tag=🇺🇸US-107.155.57.51-8080
 shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=false, tag=🇺🇸 US-107.155.57.51-8080
 vless://54ac2926-5c9e-444d-bc60-720fd2e48141@us2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#vless-gRPC
