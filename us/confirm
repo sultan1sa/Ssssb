@@ -1,3 +1,4 @@
+trojan=44.198.107.80:22222, password=telegram-id-directvpn, over-tls=true, tls-verification=true, tls-host=trojan.burgerip.co.uk, fast-open=false, udp-relay=false, tag=🇺🇸 TR-TCP-TLS 🇺🇸 US-44.198.107.80:22222
 shadowsocks=54.200.148.115:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.200.148.115-0645
 shadowsocks=54.68.160.24:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.68.160.24-0989
 shadowsocks=34.216.240.225:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US
