@@ -1,3 +1,5 @@
+vmess=shs.xiaoqi666.xyz:2086, method=chacha20-ietf-poly1305, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=true, aead=true, tag=🇺🇸 Relay_🇺🇸US-🇺🇸US_598 |22.26Mb
+trojan=18.235.218.79:22222, password=telegram-id-directvpn, over-tls=true, tls-verification=true, tls-host=trojan.burgerip.co.uk, fast-open=false, udp-relay=true, tag=US_632 |27.34Mb
 vmess = hk.wish.ml:80, method=chacha20-ietf-poly1305, password=afe67186-1ada-4b72-85c6-e6424b82f48e, obfs=ws, obfs-host=cf.xiaoqi666.xyz, obfs-uri=/, fast-open=false, tag=🇺🇸 洛杉矶
 vmess = hsj.lbxjc.online:80, method=chacha20-ietf-poly1305, password=afe67186-1ada-4b72-85c6-e6424b82f48e, obfs=ws, obfs-host=zjg.wijs1jdjwllpw38sdm.shop, obfs-uri=/, fast-open=false, tag=🇺🇸 芝加哥
 vmess = hsj.lbxjc.online:80, method=chacha20-ietf-poly1305, password=afe67186-1ada-4b72-85c6-e6424b82f48e, obfs=ws, obfs-host=shsxb.wijs1jdjwllpw38sdm.shop, obfs-uri=/, fast-open=false, tag=🇺🇸 圣何塞
