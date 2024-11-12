@@ -1,3 +1,10 @@
+trojan=3.129.241.20:22222, password=telegram-id-directvpn, over-tls=true, tls-verification=false, tls-host=trojan.burgerip.co.uk, fast-open=false, udp-relay=false, tag=Trojan | @directvpn | 🇺🇸   ᵃ⁰ᵇᵇ⁸ᵉᵇᶠ
+vmess=www.baota.me:80, method=aes-128-gcm, password=8864b426-eaea-41ae-b87d-802f054e727a, obfs=ws, obfs-host=us.cfyyds.filegear-sg.me, obfs-uri=/rongseven?ed=2048, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸 WS US
+vmess=43.153.103.203:443, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=wss, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸US-43.153.103.203-0562 | 30.368MB
+shadowsocks=54.200.148.115:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.200.148.115-0911
+shadowsocks=54.68.160.24:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.68.160.24-0919
+shadowsocks=54.187.244.22:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.187.244.22-1139
+
 shadowsocks=35.86.117.124:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-35.86.117.124-1659
 shadowsocks=54.187.244.22:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.187.244.22-1132
 shadowsocks=54.202.75.206:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.202.75.206-0920
