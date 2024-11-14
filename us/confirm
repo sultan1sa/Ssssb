@@ -1,3 +1,7 @@
+shadowsocks=54.202.75.206:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.202.75.206-0920
+shadowsocks=35.86.117.124:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-35.86.117.124-1659
+shadowsocks=35.88.136.187:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-35.88.136.187-1660
+shadowsocks=54.187.244.22:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.187.244.22-1132
 vless=44.210.157.203:22222, method=none, password=05519058-d2ac-4f28-9e4a-2b2a1386749e, obfs=wss, obfs-host=telegram-channel-vlessconfig.sohala.uk, obfs-uri=/telegram-channel-vlessconfig-ws, tls-verification=false, fast-open=false, udp-relay=false, tag=Vless | @vlessconfig | 🇺🇸   ⁷ᵈ⁶ᶜ⁹¹⁶³
 vmess=112.132.212.19:50004, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=Github搜索🇨🇳¹⁰
 shadowsocks=184.170.241.194:443, method=aes-128-cfb, password=shadowsocks, fast-open=false, udp-relay=false, tag=🔒 SS-TCP-NA 🇺🇸 US-184.170.241.194:443
