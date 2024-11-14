@@ -4,14 +4,20 @@ vmess=43.153.103.203:443, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-b
 shadowsocks=54.200.148.115:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.200.148.115-0911
 shadowsocks=54.68.160.24:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.68.160.24-0919
 shadowsocks=54.187.244.22:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.187.244.22-1139
-
+vmess=74.48.4.5:50100, method=chacha20-ietf-poly1305, password=7748cec0-5164-4c52-87cf-55758d80fdaf, obfs=http, obfs-host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=💰🇺🇸 US 74.48.4.5 ◈ tcp:50100 ◈ Multacom Corporation / TELUS Communications Inc ◈ ce080 ¹
 shadowsocks=35.86.117.124:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-35.86.117.124-1659
 shadowsocks=54.187.244.22:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.187.244.22-1132
 shadowsocks=54.202.75.206:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.202.75.206-0920
 shadowsocks=35.85.38.218:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-35.85.38.218-0927
 shadowsocks=54.200.148.115:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.200.148.115-0751
 shadowsocks=35.88.136.187:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-35.88.136.187-1660
-
+vmess=172.67.165.53:2086, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸-172.67.165.53-0643 | 19.207MB
+trojan=54.174.209.178:22222, password=telegram-id-directvpn, over-tls=true, tls-verification=true, tls-host=trojan.burgerip.co.uk, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.174.209.178-1334
+shadowsocks=54.202.75.206:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=🇺🇸 US-54.202.75.206-3614 | 30.139MB
+shadowsocks=44.202.26.59:443, method=chacha20-ietf-poly1305, password=lQHuqev0bDeSuxSCL, fast-open=false, udp-relay=true, tag=🇺🇸 SS-TCP-NA 🇺🇸 US-44.202.26.59:443
+shadowsocks=54.213.228.61:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=🇺🇸 US-54.213.228.61-3907 | 31.148MB
+vmess=shs.xiaoqi666.xyz:2086, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸-104.21.89.219-0649 | 19.526MB
+vmess=104.21.89.219:2086, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=ws, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸-104.21.89.219-1900 | 19.238MB
 vmess=43.153.103.203:443, method=aes-128-gcm, password=3fd7b958-2161-46e1-b6fc-bd6bb2165312, obfs=wss, obfs-host=shs.xiaoqi666.xyz, obfs-uri=/, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸US-43.153.103.203-0562 | 30.368MB
 shadowsocks=137.175.113.192:8388, method=chacha20-ietf, password=asd123456, fast-open=false, udp-relay=true, tag=🇺🇸 Relay_🇺🇸US-🇺🇸US_276 |16.64Mb
 vmess=us-ccs.yuji2022.eu.org:8880, method=chacha20-ietf-poly1305, password=4b5e4565-322f-4223-a891-78a84f189726, obfs=ws, obfs-host=us-ccs.yuji2022.eu.org, obfs-uri=/XSjeg73o6ZdsheahCb5JG, fast-open=false, udp-relay=true, aead=true, tag=US_565 | 5.48Mb
