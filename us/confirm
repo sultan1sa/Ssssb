@@ -1,3 +1,5 @@
+vless=44.210.157.203:22222, method=none, password=05519058-d2ac-4f28-9e4a-2b2a1386749e, obfs=wss, obfs-host=telegram-channel-vlessconfig.sohala.uk, obfs-uri=/telegram-channel-vlessconfig-ws, tls-verification=false, fast-open=false, udp-relay=false, tag=Vless | @vlessconfig | 🇺🇸   ⁷ᵈ⁶ᶜ⁹¹⁶³
+
 shadowsocks=184.170.241.194:443, method=aes-128-cfb, password=shadowsocks, fast-open=false, udp-relay=false, tag=🔒 SS-TCP-NA 🇺🇸 US-184.170.241.194:443
 shadowsocks=107.155.57.51:8080, method=rc4-md5, password=14fFPrbezE3HDZzsMOr6, fast-open=false, udp-relay=false, tag=🔒 SS-TCP-NA 🇺🇸 US-107.155.57.51:8080
 shadowsocks=54.191.9.106:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=true, tag=disney_netflix_US 2🇺🇸
