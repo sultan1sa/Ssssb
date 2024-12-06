@@ -1,3 +1,5 @@
+vless=132.226.31.178:443, method=none, password=71ed6628-5870-4d19-8a52-f2a3ba3d4898, obfs=wss, obfs-host=vbbb.ylks2024.us.kg, obfs-uri=/vbba.ylks2024.us.kg, tls-verification=false, fast-open=false, udp-relay=false, tag=Youtube顺丰资源  荷兰 48
+vless=47.89.151.17:443, method=none, password=71ed6628-5870-4d19-8a52-f2a3ba3d4898, obfs=wss, obfs-host=vbbb.ylks2024.us.kg, obfs-uri=/ProxyIP=ProxyIP.US.fxxk.dedyn.io, tls-verification=false, fast-open=false, udp-relay=false, tag=Youtube顺丰资源  美国 214
 vmess=192.210.231.217:80, method=aes-128-gcm, password=19d01a72-b30e-40d3-e87b-d16114368040, obfs=ws, obfs-uri=/aa, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 Relay_🇺🇸US-🇺🇸US_1532
 trojan=h.522226.xyz:45800, password=xjN4xcuPGg55, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=🇺🇲 Relay_🇺🇸US-🇺🇸US_1594
 vmess=206.206.80.66:23423, method=aes-128-gcm, password=8825fd04-9005-4410-b48c-d2f345ec7fee, fast-open=false, udp-relay=false, aead=true, tag=🇺🇲 US_1155
